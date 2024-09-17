@@ -1,0 +1,39 @@
+# Arquivos de backup e temporários comuns
+*.bak
+*.tmp
+*.temp
+*.log
+*.swp
+*.swo
+
+# Ignorar arquivos binários e pacotes de distribuição
+*.exe
+*.dll
+*.zip
+*.tar.gz
+*.rar
+*.apk
+*.ipa
+*.dmg
+*.win
+*.yyz
+
+# Ignorar diretórios de compilação e cache do GameMaker
+/.idea/
+/build/
+/bin/
+/obj/
+/gml_Object*/ # Objetos de código gerado
+/assets_cache/
+/temp/
+/cache/
+
+# Ignorar arquivos de configuração locais
+*.user
+*.suo
+*.userprefs
+.vscode/
+
+# Ignorar arquivos do sistema
+.DS_Store
+Thumbs.db
