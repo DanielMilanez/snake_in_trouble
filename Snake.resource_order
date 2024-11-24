@@ -21,6 +21,7 @@
     {"name":"obj_cam","order":4,"path":"objects/obj_cam/obj_cam.yy",},
     {"name":"obj_fruit","order":2,"path":"objects/obj_fruit/obj_fruit.yy",},
     {"name":"obj_nolp","order":5,"path":"objects/obj_nolp/obj_nolp.yy",},
+    {"name":"rm_game","order":1,"path":"rooms/rm_game/rm_game.yy",},
     {"name":"snd_death","order":1,"path":"sounds/snd_death/snd_death.yy",},
     {"name":"spr_fuit","order":9,"path":"sprites/spr_fuit/spr_fuit.yy",},
     {"name":"spr_grass_default","order":7,"path":"sprites/spr_grass_default/spr_grass_default.yy",},
